@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LogSettings>
+  <Path>Log</Path>
+  <Moments>
+    <vector>
+      <elem>2000-Jan-01 00:00:00</elem>
+    </vector>
+  </Moments>
+  <Maps>
+    <modelBlock name="Land_use">
+      <MapID>
+        <Name>LanduseMap</Name>
+        <Index>-1</Index>
+        <Time>not-a-date-time</Time>
+      </MapID>
+    </modelBlock>
+  </Maps>
+</LogSettings>
